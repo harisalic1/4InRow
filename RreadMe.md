@@ -7,8 +7,11 @@ The project was done as part of the IT 305 Programming Languages course at Inter
 Team members
 
 Adnan Selimović
+
 Haris Alić
+
 Mirza Novalić
+
 
 Running the project
 
