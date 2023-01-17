@@ -4,7 +4,7 @@ Connect Four is a two-player connection board game, in which the players choose 
 
 The project was done as part of the IT 305 Programming Languages course at International Burch University, and implemented in the Scala programming language.
 
-Team members
+Team members:
 Adnan Selimović,
 Haris Alić,
 Mirza Novalić
